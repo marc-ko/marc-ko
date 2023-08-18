@@ -37,6 +37,15 @@ class About extends Me
         return languages, frameworks;
     }
 
+    public function getMyContact()
+    {
+        email = "marcoko@ckentgroup.com";
+        website = "marcoko.com";
+        linkedin = "https://www.linkedin.com/in/ka-chun-ko-1733a8224/";
+        
+        return email, website;
+    }
+
     public function getFutureGoal()
     {
         return 'To improve my programming skill better.';
