@@ -48,7 +48,7 @@ class About extends Me
 
     public function getFutureGoal()
     {
-        return 'To improve my programming skill better.';
+        return 'To be an all-rounded and versatile person 😉.';
     }
 }
 ```
