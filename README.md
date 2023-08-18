@@ -20,10 +20,12 @@ class About extends Me
 
         languages = [
             Php::class,
-            [// JavaScript
-            Javascript::class,
-            Vuejs::class, // Beginner Level
-            ],
+            'JavaScript' =>
+                [
+                Javascript::class,
+                Vuejs::class // Beginner Level
+                ],
+            Python::Class
             Dart::Class // Beginner Level (Flutter)
             Cpp::Class // Beginner Level
 
