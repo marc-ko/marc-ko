@@ -15,7 +15,7 @@ class About extends Me
         ];
     }
 
-    public function getDailyKnowledge()
+    public function getMoreInfo()
     {
 
         languages = [
