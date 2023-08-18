@@ -28,6 +28,8 @@ class About extends Me
             Python::Class
             Dart::Class // Beginner Level (Flutter)
             Cpp::Class // Beginner Level
+            Solidity::Class // Beginner Level
+
 
         ];
         frameworks = [
