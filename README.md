@@ -53,4 +53,5 @@ class About extends Me
         return 'To be an all-rounded and versatile person 😉.';
     }
 }
+?>
 ```
