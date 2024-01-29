@@ -45,7 +45,7 @@ class About extends Me
         website = "marcoko.com";
         linkedin = "https://www.linkedin.com/in/ka-chun-ko-1733a8224/";
         
-        return email, website;
+        return email, website, linkedin;
     }
 
     public function getFutureGoal()
