@@ -10,7 +10,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'C Kent Group',
-                'position' => 'Junior Full Stack Web Developer'         
+                'position' => 'Full Stack Web Developer'         
             ]
         ];
     }
