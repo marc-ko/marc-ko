@@ -43,7 +43,7 @@ class About extends Me
     {
         email = "marcoko@ckentgroup.com";
         website = "marcoko.com";
-        linkedin = "https://www.linkedin.com/in/ka-chun-ko-1733a8224/";
+        linkedin = "https://www.linkedin.com/in/marcoko/";
         
         return email, website, linkedin;
     }
