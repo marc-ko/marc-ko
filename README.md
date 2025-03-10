@@ -65,7 +65,7 @@ class About extends Me
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,bootstrap,css,express,html,htmx,java,js,jquery,flutter,dart,laravel,bash,md,mongodb,mysql,sqlite,nodejs,py,selenium,cypress,ts&perline=14" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,cs,bootstrap,css,express,html,htmx,java,codeigniter,js,jquery,flutter,dart,laravel,bash,md,mongodb,mysql,sqlite,nodejs,py,selenium,cypress,ts&perline=14" />
   </a>
 </p>
 
@@ -73,14 +73,13 @@ class About extends Me
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cmake,bootstrap,docker,figma,firebase,git,github,gitlab,linux,debian,mongodb,mysql,sqlite,nodejs,cypress,neovim,vim,vscode,atom,arduino,nginx,cloudflare,azure,blender,unreal&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,cmake,docker,figma,firebase,git,github,gitlab,linux,debian,mongodb,mysql,sqlite,nodejs,cypress,neovim,vim,vscode,atom,arduino,nginx,cloudflare,azure,blender,unreal&perline=14" />
   </a>
 </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marc-ko&show_icons=true&locale=en&layout=compact" alt="marc-ko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marc-ko&show_icons=true&locale=en" alt="marc-ko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marc-ko&" alt="marc-ko" /></p>
 
