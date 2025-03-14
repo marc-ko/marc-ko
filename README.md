@@ -65,7 +65,7 @@ class About extends Me
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,cs,bootstrap,css,express,html,htmx,java,codeigniter,js,jquery,flutter,dart,laravel,bash,md,mongodb,mysql,sqlite,nodejs,py,selenium,cypress,ts&perline=14" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cmake,cs,bootstrap,css,express,html,htmx,java,codeigniter,js,jquery,flutter,dart,laravel,bash,md,mongodb,mysql,sqlite,py,selenium,cypress,ts&perline=14" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ class About extends Me
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cmake,docker,figma,firebase,git,github,gitlab,linux,debian,mongodb,mysql,sqlite,nodejs,cypress,neovim,vim,vscode,atom,arduino,nginx,cloudflare,azure,blender,unreal&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,cmake,docker,figma,firebase,git,github,gitlab,linux,debian,mongodb,mysql,sqlite,pnpm,nodejs,cypress,neovim,vim,vscode,atom,arduino,nginx,cloudflare,azure,blender,unreal&perline=14" />
   </a>
 </p>
 
